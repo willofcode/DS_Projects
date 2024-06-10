@@ -14,4 +14,4 @@ to compile the program you will need to access the folder and access the file.
 - to run the executable you will need to run on terminal ./'theexecutable'
 
 note: multiple .cpp can be compiled together under one 'executable'
-more information on command for better understand can be found here @ https://www.rapidtables.com/code/linux/gcc.html
+more information on command for better understanding can be found here @ https://www.rapidtables.com/code/linux/gcc.html
